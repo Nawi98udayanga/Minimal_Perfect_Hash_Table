@@ -1,1 +1,1 @@
-# Minimal_Perfect_Hash_Table-
+# Minimal_Perfect_Hash_Table
